@@ -1,6 +1,11 @@
 ## aoirint-web
 
-aoirintが公開しているWebサイト・WebアプリのリポジトリをおくためのOrganizationです。
+aoirintが公開しているWebサイト・Webアプリを管理するためのOrganizationです。
+
+||Hosting|
+|:--|:--|
+|[aoirint.com](https://aoirint.com)|GitHub Pages|
+|[wiki.aoirint.com](https://wiki.aoirint.com)|VPS|
 
 <!--
 
