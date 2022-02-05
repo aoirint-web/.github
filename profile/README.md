@@ -1,6 +1,6 @@
 ## aoirint-web
 
-aoirintが公開しているWebサイト・Webアプリを管理するためのOrganizationです。
+aoirintが公開しているWebサイトを管理するためのOrganizationです。
 
 |サイト|ホスティングサービス|構成|
 |:--|:--|:--|
