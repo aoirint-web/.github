@@ -6,7 +6,7 @@
 |:--|:--|:--|:--|
 |[aoirint.com](https://aoirint.com)|プロフィールサイト|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|
 |[blog.aoirint.com](https://blog.aoirint.com)|技術ノート|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|
-|[wiki.aoirint.com](https://wiki.aoirint.com)|技術ノート|VPS|[Wiki.js](https://js.wiki)|
+|[wiki.aoirint.com](https://wiki.aoirint.com)|技術ノート（予定）|VPS|[Wiki.js](https://js.wiki)|
 
 <!--
 
