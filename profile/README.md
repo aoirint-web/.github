@@ -2,10 +2,11 @@
 
 aoirintが公開しているWebサイト・Webアプリを管理するためのOrganizationです。
 
-||Hosting|
-|:--|:--|
-|[aoirint.com](https://aoirint.com)|GitHub Pages|
-|[wiki.aoirint.com](https://wiki.aoirint.com)|VPS|
+||ホスティングサービス|構成|
+|:--|:--|:--|
+|[aoirint.com](https://aoirint.com)|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|
+|[blog.aoirint.com](https://blog.aoirint.com)|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|
+|[wiki.aoirint.com](https://wiki.aoirint.com)|VPS|[Wiki.js](https://js.wiki)|
 
 <!--
 
