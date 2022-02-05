@@ -1,6 +1,6 @@
 ## aoirint-web
 
-aoirintが公開しているWebサイトを管理するためのOrganizationです。
+[aoirint](https://github.com/aoirint)が公開しているWebサイトを管理するためのOrganizationです。
 
 |サイト|ホスティングサービス|構成|
 |:--|:--|:--|
