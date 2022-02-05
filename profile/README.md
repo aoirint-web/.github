@@ -2,7 +2,7 @@
 
 [aoirint](https://github.com/aoirint)が公開しているWebサイトを管理するためのOrganizationです。
 
-|サイト|用途|ホスティングサービス|構成|リポジトリ|
+|サイト|用途|ホスティング|構成|リポジトリ|
 |:--|:--|:--|:--|:--|
 |[aoirint.com](https://aoirint.com)|プロフィールサイト|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|[aoirint.com](https://github.com/aoirint-web/aoirint.com)|
 |[blog.aoirint.com](https://blog.aoirint.com)|技術ノート|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|[blog.aoirint.com](https://github.com/aoirint-web/blog.aoirint.com)<br>~~[blog.aoirint.com-contents](https://github.com/aoirint-web/blog.aoirint.com-contents)~~ （下書きを含むため非公開）|
