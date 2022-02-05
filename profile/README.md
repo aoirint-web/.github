@@ -5,8 +5,8 @@
 |サイト|用途|ホスティングサービス|構成|リポジトリ|
 |:--|:--|:--|:--|:--|
 |[aoirint.com](https://aoirint.com)|プロフィールサイト|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|[aoirint.com](https://github.com/aoirint-web/aoirint.com)|
-|[blog.aoirint.com](https://blog.aoirint.com)|技術ノート|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|[blog.aoirint.com](https://github.com/aoirint-web/blog.aoirint.com)<br>~~[blog.aoirint.com-contents](https://github.com/aoirint-web/blog.aoirint.com-contents)~~|
-|[wiki.aoirint.com](https://wiki.aoirint.com)|技術ノート（予定）|VPS|[Wiki.js](https://js.wiki)|~~[wiki.aoirint.com](https://github.com/aoirint-web/wiki.aoirint.com)~~<br>[wiki.aoirint.com-contents](https://github.com/aoirint-web/wiki.aoirint.com-contents)|
+|[blog.aoirint.com](https://blog.aoirint.com)|技術ノート|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|[blog.aoirint.com](https://github.com/aoirint-web/blog.aoirint.com)<br>~~[blog.aoirint.com-contents](https://github.com/aoirint-web/blog.aoirint.com-contents)~~ （下書きを含むため非公開）|
+|[wiki.aoirint.com](https://wiki.aoirint.com)|技術ノート（予定）|VPS|[Wiki.js](https://js.wiki)|~~[wiki.aoirint.com](https://github.com/aoirint-web/wiki.aoirint.com)~~（セキュリティ上非公開）<br>[wiki.aoirint.com-contents](https://github.com/aoirint-web/wiki.aoirint.com-contents)|
 |[tools.aoirint.com](https://tools.aoirint.com)|簡易ツール|GitHub Pages|-|[tools.aoirint.com](https://github.com/aoirint-web/tools.aoirint.com)|
 
 
