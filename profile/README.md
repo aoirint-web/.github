@@ -7,7 +7,7 @@
 |[aoirint.com](https://aoirint.com)|プロフィール|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|[aoirint.com](https://github.com/aoirint-web/aoirint.com)|
 |[blog.aoirint.com](https://blog.aoirint.com)|技術ノート|GitHub Pages|[Gatsby](https://www.gatsbyjs.com)|[blog.aoirint.com](https://github.com/aoirint-web/blog.aoirint.com)<br>~~[blog.aoirint.com-contents](https://github.com/aoirint-web/blog.aoirint.com-contents)~~ （下書きを含むため非公開）|
 |[wiki.aoirint.com](https://wiki.aoirint.com)|個人Wiki|VPS|[Wiki.js](https://js.wiki)|設定：[wiki.aoirint.com](https://github.com/aoirint-web/wiki.aoirint.com)<br>コンテンツ：[wiki.aoirint.com-contents](https://github.com/aoirint-web/wiki.aoirint.com-contents)|
-|[tools.aoirint.com](https://tools.aoirint.com)|簡易ツール|GitHub Pages|-|[tools.aoirint.com](https://github.com/aoirint-web/tools.aoirint.com)|
+|[tools.aoirint.com](https://tools.aoirint.com)|作業効率化簡易ツール|GitHub Pages|-|[tools.aoirint.com](https://github.com/aoirint-web/tools.aoirint.com)|
 |[mstdn.aoirint.com](https://mstdn.aoirint.com)|個人用SNS|VPS|[Mastodon](https://joinmastodon.org/)|設定：[mstdn.aoirint.com](https://github.com/aoirint-web/mstdn.aoirint.com)|
 
 
